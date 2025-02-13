@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/thisismeritesh/Leetcode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/thisismeritesh/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/thisismeritesh/Leetcode/tree/master/0229-majority-element-ii) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thisismeritesh/Leetcode/tree/master/0229-majority-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Simulation
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
