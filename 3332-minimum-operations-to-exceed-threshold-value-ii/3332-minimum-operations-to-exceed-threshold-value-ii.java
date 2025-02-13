@@ -7,8 +7,8 @@ class Solution {
         int min=0;
         if(pq.peek()>=k) return min;
        
-        while(pq.size()>=2){
-            if(pq.peek()>=k)return min;
+        while(pq.size()>=2 &&pq.peek()<k ){
+            
             long a=pq.poll(),b=pq.poll();
             long res=(Math.min(a,b)*2) + Math.max(a,b);
             pq.add(res); 
