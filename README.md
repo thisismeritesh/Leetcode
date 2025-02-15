@@ -8,6 +8,7 @@
 | [0204-count-primes](https://github.com/thisismeritesh/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/thisismeritesh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/thisismeritesh/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/thisismeritesh/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/thisismeritesh/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/thisismeritesh/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/thisismeritesh/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Greedy
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/thisismeritesh/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
