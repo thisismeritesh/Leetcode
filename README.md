@@ -9,6 +9,7 @@
 | [0229-majority-element-ii](https://github.com/thisismeritesh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/thisismeritesh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/thisismeritesh/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/thisismeritesh/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
@@ -50,10 +51,12 @@
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/thisismeritesh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/thisismeritesh/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/thisismeritesh/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
 | ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/thisismeritesh/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Trie
 |  |
