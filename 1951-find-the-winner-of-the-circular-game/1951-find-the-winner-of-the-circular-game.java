@@ -12,7 +12,7 @@ class Solution {
             q.add(ele);
         }
         q.poll();
-        System.out.println(q);
+     
 
        }
        return q.poll();
