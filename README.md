@@ -10,6 +10,7 @@
 | [0692-top-k-frequent-words](https://github.com/thisismeritesh/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1572-subrectangle-queries](https://github.com/thisismeritesh/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/thisismeritesh/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/thisismeritesh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/thisismeritesh/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thisismeritesh/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thisismeritesh/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/thisismeritesh/Leetcode/tree/master/0204-count-primes) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/thisismeritesh/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/thisismeritesh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/thisismeritesh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/thisismeritesh/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/thisismeritesh/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thisismeritesh/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -91,4 +94,12 @@
 |  |
 | ------- |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/thisismeritesh/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/thisismeritesh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/thisismeritesh/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
